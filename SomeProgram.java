@@ -13,4 +13,7 @@ public class SomeProgram {
 	public void manageTheSatellite() {managing-satellite
     // TODO implement
 	}
+	
+	public void thirdFunction () {
+	//todo}
 }
